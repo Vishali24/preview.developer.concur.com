@@ -108,7 +108,7 @@
           {
             "name": "paymentMethodType",
             "in": "query",
-            "description": "Payment Method Type to be searched. Valid values are ACH, CARD, CHECK, CLIENT, PAYPVD, VCHER, WIRE",
+            "description": "Payment Method Type to be searched. Valid values are ACH, CARD, CHECK, CLIENT, PAYPVD, VCHER, WIRE, SVCARD",
             "required": false,
             "type": "string"
           },
