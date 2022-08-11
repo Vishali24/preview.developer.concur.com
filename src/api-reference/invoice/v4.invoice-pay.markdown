@@ -958,4 +958,5 @@ Value|Description
 `CHECK`|Check payment
 `WIRE`|Wire payment
 `CARD`|Virtual Card payment
+`SVCARD`|Single Use Virtual Card
 `OTHER`|Any other payment method
